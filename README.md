@@ -23,32 +23,16 @@ Python; C++
 <!-- BLOG-POST-LIST:START -->
 
 - [Fast Ship Tracking Algorithm for Remote Sensing Video Based on Background Data Mining And Adaptive Selection](https://ieeexplore.ieee.org/abstract/document/9563578)
+- [基于深度学习的X光地铁危险物品检测算法](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=ZTSX202103013&uniplatform=NZKPT&v=ZmtJWrhS5tk4T3wvsj7UFs2y1ySkkjLgHzTKc0_6VGpSlt15HCPo00ep_AKvrsVd)
 <!-- BLOG-POST-LIST:END -->
 
 
 
-# 🔭Actions
+# 🌱Actions
 
-<div align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=holic-x"/>
-</div>
+
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
 
-<div align="center">
-    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=holic-x&theme=github"/>
-</div>
-
-<div align="center">
-    <img height="300px" src="https://metrics.lecoq.io/holic-x?template=classic&config.timezone=Asia%2FShanghai"/>
-</div>
-
-# 🌱Social
-
-<div align="center">
-    <img height="150px" src="https://github-profile-trophy.vercel.app/?username=holic-x&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
-</div>
-
-![](https://stats.justsong.cn/api/github?username=holic-x)![](https://stats.justsong.cn/api/zhihu?username=holic-x)
 
